@@ -1,1 +1,1 @@
-[link](https://github.com/github/training-kit/blob/master/resources/learning-path/index.html#L59)
+[link](https://github.com/github/training-kit/blob/master/resources/learning-path/index.html#L58)
